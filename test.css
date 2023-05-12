@@ -1,0 +1,8 @@
+#main {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: white;
+}
